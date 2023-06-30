@@ -1,6 +1,7 @@
 <h2>Como usar</h2>
 
 1- Acesse: https://github.com/v1ctorsales/SempreDisponivelTeams/blob/main/SempreOn.ps1
+<br>
 E baixe o arquivo clicando no ícone de Download
 <br>
 ![image](https://github.com/v1ctorsales/SempreDisponivelTeams/assets/36749678/3d4b58be-9852-44b7-9f4f-9422a41db687)
