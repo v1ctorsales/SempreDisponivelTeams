@@ -2,24 +2,24 @@
 
 1- Acesse: https://github.com/v1ctorsales/SempreDisponivelTeams/blob/main/SempreOn.ps1
 <br>
-E baixe o arquivo clicando no ícone de Download
+2- Baixe o arquivo clicando no ícone de Download
 <br>
 ![image](https://github.com/v1ctorsales/SempreDisponivelTeams/assets/36749678/3d4b58be-9852-44b7-9f4f-9422a41db687)
 <hr>
 <br>
-2- Para o script funcionar, basta clicar com o botão direito nele e ir em 'Editar'
+3- Para o script funcionar, basta clicar com o botão direito nele e ir em 'Editar'
 <br>
 
 ![image](https://github.com/v1ctorsales/SempreDisponivelTeams/assets/36749678/225e8fe8-69a6-49f8-bb58-168bec857904)
 <hr>
 <br>
-3- Depois, clique em no ícone de Play verde 'Executar Script'
+4- Depois, clique em no ícone de Play verde 'Executar Script'
 <br>
 
 ![image](https://github.com/v1ctorsales/SempreDisponivelTeams/assets/36749678/5c4d40ee-2f34-4bd4-9835-ea90ed3b7236)
 <hr>
 <br>
-4- Por último, deixe o Teams aberto.
+5- Por último, deixe o Teams aberto.
 
 <h2>Informações</h2>
 
